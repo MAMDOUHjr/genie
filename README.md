@@ -55,6 +55,5 @@ hello from genie how can i help u in commands
 >>> How do I list all files in a directory?
 Q :  How do I list all files in a directory?
 Loading ....
-Q :  How do I list all files in a directory?
 Use the `ls` command to list all files in a directory.
 >>> exit
