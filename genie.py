@@ -2,7 +2,7 @@ import requests
 import json
 import sys
 import os
-url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyA2vn01vMFzRvYkf5K49lnL1yNMuZ2lk2o'
+url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=YOUR_API_KEY'
 headers = {'Content-Type': 'application/json'}
 constraints  = "Act as a cli apllication named genie. genie can only answer questions about linux bash terminal only. Refuse any question politly if it is not related to the linux bash terminal definning that you are limited. so my question is : "
 firstTime = True
